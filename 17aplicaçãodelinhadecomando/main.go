@@ -1,7 +1,7 @@
 package main
 
 import (
-	"aplicacao-linha-comando/app"
+	"linha-de-comando/app"
 	"log"
 	"os"
 )
